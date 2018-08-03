@@ -18,4 +18,5 @@ Route::get('/planes', 'PagesController@planes');
 Route::get('/posts', 'PagesController@posts');
 Route::get('/contact', 'PagesController@contact');
 Route::get('/message', 'PagesController@message');
+
 Route::resource('posts', 'PostsController');
