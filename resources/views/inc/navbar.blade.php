@@ -22,9 +22,13 @@
           </div><!--/.nav-collapse
         </div>
       </nav>-->
+<style>
 
+
+
+</style>
       <nav class="navbar navbar-default">
-        <div class="container">
+        {{-- <div  style="background-color:#f4f6f7" align="center"> --}}
             <div class="navbar-header">
 
                 <!-- Collapsed Hamburger -->
@@ -46,7 +50,7 @@
                 <ul class="nav navbar-nav">
                     &nbsp;
                 </ul>
-                <ul class="nav navbar-nav">
+                <ul class="nav navbar-nav navbar-center" align="center">
                   <!-- <li><a href="/">Home</a></li> -->
                   <li><a href="https://github.com/Masum-Osman">Codes</a></li>
                   <li><a href="/planes">Planes of 2018</a></li>
