@@ -54,7 +54,8 @@ p.thiner{
 }
 
 p.SecondLine{
-    margin-top: 20px;
+    margin-top: -10px;
+    padding-top: -25px;
     
 }
 
