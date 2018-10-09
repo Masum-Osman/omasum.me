@@ -7,9 +7,9 @@
 
         <img src="/images/osmanshoped.jpg" class="center" align="center";>
         
-        <h1 class="thiner" align="center"><font face="Arial Narrow" color="#283747" >Md. Osman Gani Khan Masum</font></h1>
-        <p class= "SecondLine" align="center"><font face="Edwardian Script ITC" color="#707B7C" font size="7"><b>Full Stack Developer | Backend Enthusiast | *nix Lover</b></font></p>
-        <p class="small" align="center"><font face="Arial Narrow" color="#979a9a" font size="5">
+        <h1 class="thiner" align="center"><font  color="#283747" >Md. Osman Gani Khan Masum</font></h1>
+        <p class= "SecondLine" align="center"><font  color="#707B7C" font size="6"><b>Full Stack Engineer | Backend Enthusiast | *nix Lover</b></font></p>
+        <p class="small" align="center"><font  color="#979a9a" font size="5">
         A highly motivated innovative thinker and an initiative taker with strong logical,<br>
                 analytical and entrepreneurial skills,with the ability to work<br>
                         individually as well as in a team.</font></p>

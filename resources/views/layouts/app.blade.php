@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=K2D" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Bad+Script" rel="stylesheet">
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
     <title>{{config('app.name', 'OsmanMasum')}}</title>
 <style>
@@ -26,7 +28,7 @@
 p.small {
     line-height: 0.9;
     font-weight: lighter;
-    margin-top: -10px;
+    margin-top: 5px;
 }
 
 p.thicker {
@@ -35,6 +37,7 @@ p.thicker {
 }
 
 p.thiner{
+    font-family: 'K2D', sans-serif;
     letter-spacing: px;
     word-spacing: px;
     padding-top: 15px;
@@ -54,9 +57,10 @@ p.thiner{
 }
 
 p.SecondLine{
-    margin-top: -10px;
-    padding-top: -25px;
+    margin-top: 7px;
+    padding-top: 20px;
     
+    font-family: 'Bad Script', cursive;
 }
 
 .learninglist{
@@ -79,6 +83,10 @@ p.SecondLine{
     margin-right: 300px;
     font-weight: 9000;
 }
+
+
+
+
 
             
 </style>
